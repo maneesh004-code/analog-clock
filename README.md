@@ -33,11 +33,6 @@ Welcome to the **Analog Clock** project — a responsive and real-time analog cl
 
 ## 📁 Project Structure
 
-
----
-
-## 📁 Project Structure
-
 analog-clock/
 ├── index.html # Main HTML file
 ├── style.css # Clock styling
