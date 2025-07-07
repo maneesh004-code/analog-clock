@@ -1,16 +1,38 @@
-# 🕒 Analog Clock using HTML, CSS, and JavaScript
+# 🕒 Analog Clock Using HTML, CSS, and JavaScript
 
-This is a simple responsive analog clock created with HTML, CSS, and vanilla JavaScript. The clock hands rotate based on the current time using JavaScript DOM manipulation.
-
-### 🚀 Live Demo
-👉 [Click here to view](https://maneesh004-code.github.io/analog-clock)
+Welcome to the **Analog Clock** project — a responsive and real-time analog clock created using only **HTML**, **CSS**, and **vanilla JavaScript**. This simple yet elegant clock visually represents the current system time with animated hour, minute, and second hands over a custom clock face.
 
 ---
 
-## 🛠️ Features
-- Real-time clock with smooth hand rotation
-- Responsive design using CSS
-- Fully functional without external libraries
+## 🔗 Live Demo
+
+🌐 View it live here:  
+👉 [https://maneesh004-code.github.io/analog-clock](https://maneesh004-code.github.io/analog-clock)
+
+
+---
+
+## 🧰 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, transforms)
+- JavaScript (DOM manipulation, `setInterval`)
+- Responsive design principles
+
+---
+
+## 🧠 Features
+
+- ⏱️ Real-time clock updates every second
+- 📐 Accurate hand rotations calculated using system time
+- 💻 Fully responsive layout using viewport units
+- 🖼️ Custom clock face image (`clock.png`)
+- 🪶 Lightweight, no external libraries or frameworks
+
+---
+
+## 📁 Project Structure
+
 
 ---
 
