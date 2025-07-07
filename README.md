@@ -22,13 +22,6 @@ analog-clock/
 ├── script.js # Clock logic (JS)
 ├── clock.png # Clock background image
 
-
----
-
-## 📷 Preview
-
-![Analog Clock Preview](clock.png)
-
 ---
 
 ## ✅ How It Works
